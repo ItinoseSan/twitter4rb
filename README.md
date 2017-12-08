@@ -20,9 +20,16 @@ Or install it yourself as:
 
     $ gem install twitter4rb
 
-## Usage
+## Using Example
+```ruby
+consumerkey = 'consumerkey'
+consumersecret = 'consumersecret'
+acesstoken = 'accesstoken'
+acesstokensecret = 'accesstokensecret'
 
-TODO: Write usage instructions here
+twitter = Twitter4rb::Core::Methods.new(consumerkey, consumersecret, accesstoken, accesstokensecret)
+twitter.tweet('hello world')
+```
 
 ## Development
 
