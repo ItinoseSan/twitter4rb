@@ -1,3 +1,7 @@
+require 'twitter4rb/URL/api_url'
+require 'twitter4rb/net/http_request'
+require 'twitter4rb/URL/encoder'
+
 module Twitter4rb
   module Core
     class Methods

@@ -1,4 +1,4 @@
-require "twitter4rb/version"
+require 'twitter4rb/version'
 
 module Twitter4rb
   module Core
