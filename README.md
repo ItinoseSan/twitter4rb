@@ -20,7 +20,7 @@ Or install it yourself as:
 
     $ gem install twitter4rb
 
-## Using Example
+## Using Example 
 ```ruby
 consumerkey = 'consumerkey'
 consumersecret = 'consumersecret'
