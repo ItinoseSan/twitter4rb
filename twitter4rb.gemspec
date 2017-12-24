@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "twitter4rb"
   spec.version       = Twitter4rb::VERSION
   spec.authors       = ["ItinoseSan"]
-  spec.email         = ["jkekun@gmail.com"]
+  spec.email         = ["dhelitus@gmail.com"]
 
   spec.summary       = 'Twitter restAPI wrapper gem which is released under the MIT licence.'
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
